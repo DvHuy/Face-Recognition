@@ -1,0 +1,5 @@
+# Bỏ qua toàn bộ thư mục models
+/models/
+
+# Bỏ qua tệp face-api.min.js
+face-api.min.js
